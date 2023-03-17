@@ -1,4 +1,4 @@
-![alt text](<https://github.com/ZackYounger/1st-person-tank-trouble/tree/main/images/1.jpg?raw=true>)
-
-
-<p align="center"><img alt="main collage" src="images/1.jpg"></p>
+<p align="center"><img alt="" src="images/1.jpg"></p>
+<p align="center"><img alt="" src="images/2.jpg"></p>
+<p align="center"><img alt="" src="images/3.jpg"></p>
+<p align="center"><img alt="" src="images/4.jpg"></p>
